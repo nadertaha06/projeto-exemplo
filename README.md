@@ -1,4 +1,4 @@
-# TECWEB - Projeto Exemplo
+# Projeto Exemplo
 Repositório contém exemplo de relação Many-to-one
 
 - Crie um ambiente virtual
